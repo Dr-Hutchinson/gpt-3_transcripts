@@ -1,0 +1,46 @@
+You are an AI historian specializing in primary source analysis and historiographical interpretation. When given a Primary Source, you will analyze and interpret that source based on the following Historical Method:
+
+Historical Method:
+Step 1 - Contextualization: Apply the Source Information to provide a detailed and lengthy description of how the Primary Source reflects the historical period in which it was created. In composing this description, note how the Primary Source offers insights into the larger historic events, personalities, or ideologies that shaped the the period noted in the Source Information. 
+Step 2 - Purpose : Offer a lengthy and detailed exploration of the purpose of the Primary Source, interpreting the author’s arguments through the Contextualization offered in Step 1.
+Step 3 - Audience: Assess the intended audience of the Primary Source, noting how this audience would shape the Primary Source's reception and social impact in light of the Contextualization offered in Step 1.
+Step 4 - Historiographical Interpretation: Compare and contrast how historians would interpret this source via different academic interpretations of the period noted in the Source Information. Provide a lengthy and detailed interpretation of how at least three specific schools of historiographical would interpret this source. Different historiographical schools could include the Rankian, Progressive, Consensus, Annales, microhistorical, Marxist, postmodern, post-colonial, Structuralist, gender history, and the cultural turn.
+
+Primary Source:
+
+—"The Hayseed"
+"I was once a tool of oppression
+And as green as a sucker could be
+And monopolies banded together
+To beat a poor hayseed like me.
+"The railroads and old party bosses
+Together did sweetly agree;
+And they thought there would be little trouble
+In working a hayseed like me. . . ."
+
+Source Information: The Primary Source is an American political campaign song popularized in 1890, and published by a Nebraska newspaper known as the Farmer's Alliance. 
+
+Instructions: Based on the Historical Method outlined above, provide a lengthy and detailed analysis of the Primary Source. Let's take this step by step.
+
+
+In Step 1 - Contextualization, you will need to provide a detailed and lengthy description of how the Primary Source reflects the historical period in which it was created. In composing this description, note how the Primary Source offers insights into the larger historic events, personalities, or ideologies that shaped the the period noted in the Source Information.
+
+The Primary Source reflects the historical period in which it was created in several ways. First, the song is about a "hayseed" who is being oppressed by monopolies and railroads. This speaks to the Gilded Age in America, when there were a small number of very wealthy people and a large number of poor people. Second, the song is published by the Farmer's Alliance, which was an organization formed to help farmers during this time period. Third, the song would have been popular among farmers and other working-class people during this time period.
+
+In Step 2 - Purpose, you will need to offer a lengthy and detailed exploration of the purpose of the Primary Source, interpreting the author’s arguments through the Contextualization offered in Step 1.
+
+The purpose of the Primary Source is to provide a voice for farmers and other working-class people who were being oppressed during the Gilded Age. The song speaks to the unfairness of the situation, with monopolies and railroads taking advantage of hayseeds like the protagonist. It also offers hope, saying that eventually the hayseed will "have his day." This would have been a very popular message among farmers and other working-class people during this time period.
+
+In Step 3 - Audience, you will need to assess the intended audience of the Primary Source, noting how this audience would shape the Primary Source's reception and social impact in light of the Contextualization offered in Step 1.
+
+The intended audience of the Primary Source is farmers and other working-class people who were being oppressed during the Gilded Age. This audience would have been very receptive to the message of the song, as it spoke to their experiences and offered hope for a better future. The song would have had a significant social impact among this group of people, as it would have helped to unite them against their oppressors.
+
+In Step 4 - Historiographical Interpretation, you will need to compare and contrast how historians would interpret this source via different academic interpretations of the period noted in the Source Information. Provide a lengthy and detailed interpretation of how at least three specific schools of historiographical would interpret this source. Different historiographical schools could include the Rankian, Progressive, Consensus, Annales, microhistorical, Marxist, postmodern, post-colonial, Structuralist, gender history, and the cultural turn.
+
+There are many different ways that historians could interpret this source. Here are three possible interpretations:
+
+1) Marxist historians would interpret this source as evidence of class conflict during the Gilded Age. They would focus on the lyrics about the hayseed being oppressed by monopolies and railroads, and see this as an example of the wealthy taking advantage of the working class.
+
+2) Postcolonial historians would interpret this source as evidence of American imperialism. They would focus on the fact that the Farmer's Alliance was formed to help farmers, and see this as an example of America's expansion into new territories (in this case, Nebraska).
+
+3) Gender historians would interpret this source as evidence of sexism during the Gilded Age. They would focus on the lyrics about the hayseed being beaten by "party bosses," and see this as an example of women being oppressed by men during this time period.

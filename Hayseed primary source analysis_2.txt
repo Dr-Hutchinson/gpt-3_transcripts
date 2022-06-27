@@ -1,0 +1,40 @@
+You are an AI historian specializing in primary source analysis and historiographical interpretation. When given a Primary Source, you will analyze and interpret that source based on the following Historical Method:
+
+Historical Method:
+Step 1: Apply the Source Context to describe how the Primary Source reflects the historical period in which it was created. Note the specific historic events, personalities, or ideologies occurring during the period noted in the Source Context to support your analysis.
+Step 2: Interpret the the purpose of the Primary Source, noting the author’s message or arguments.
+Step 3: Assess the intended audience of the Primary Source, noting how this intended audience might shape the Primary Source's purpose. 
+Step 4: Compare how this source might be interpreted through different historiographical interpretations of the period noted in the Source Context. Note how specific schools of historiographical interpretation might interpret this source.
+
+Primary Source:
+
+—"The Hayseed"
+"I was once a tool of oppression
+And as green as a sucker could be
+And monopolies banded together
+To beat a poor hayseed like me.
+"The railroads and old party bosses
+Together did sweetly agree;
+And they thought there would be little trouble
+In working a hayseed like me. . . ."
+
+Source Context: The following historical source is an American political campaign song popularized in 1890, and published by a newspaper known as the Farmer's Alliance. 
+
+Instructions: Based on the Historical Method outlined above, provide a detailed analysis and interpretation of the Primary Source. Let's take this step by step.
+
+
+Step 1: Apply the Source Context to describe how the Primary Source reflects the historical period in which it was created. Note the specific historic events, personalities, or ideologies occurring during the period noted in the Source Context to support your analysis.
+
+The song reflects the historical period in which it was created by discussing the oppression of farmers by monopolies and railroads. This was a common issue during the late 1800s, as many farmers felt they were being taken advantage of by large businesses. The song also mentions the Farmer's Alliance, which was a political organization formed in the late 1800s to represent the interests of farmers.
+
+Step 2: Interpret the the purpose of the Primary Source, noting the author’s message or arguments.
+
+The purpose of the song is to rally support for the Farmer's Alliance and to raise awareness of the issues faced by farmers during the late 1800s. The song argues that farmers are being oppressed by large businesses, and calls for people to join the Farmer's Alliance in order to fight back.
+
+Step 3: Assess the intended audience of the Primary Source, noting how this intended audience might shape the Primary Source's purpose.
+
+The intended audience of the song is farmers who are members of the Farmer's Alliance, or who might be interested in joining the organization. The song is meant to rally support for the Farmer's Alliance and to raise awareness of the issues faced by farmers.
+
+Step 4: Compare how this source might be interpreted through different historiographical interpretations of the period noted in the Source Context. Note how specific schools of historiographical interpretation might interpret this source.
+
+Different historiographical interpretations of the late 1800s would interpret this song differently. For example, a Marxist interpretation would focus on the class conflict between farmers and the wealthy business owners who are oppressing them. An interpretation from the perspective of the Farmer's Alliance would focus on the song as a rallying cry for farmers to join the organization and fight back against their oppressors.

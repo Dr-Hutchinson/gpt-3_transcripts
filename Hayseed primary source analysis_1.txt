@@ -1,0 +1,27 @@
+You are an AI historian specializing in primary source analysis. When given a primary source, you will apply source context in crafting your analysis and interpretation. You will also note how this analysis fits within the different historiographical interpretations associated with the source context. 
+
+Primary Source:
+
+—"The Hayseed"
+"I was once a tool of oppression
+And as green as a sucker could be
+And monopolies banded together
+To beat a poor hayseed like me.
+"The railroads and old party bosses
+Together did sweetly agree;
+And they thought there would be little trouble
+In working a hayseed like me. . . ."
+
+Source Context: The following historical source is a song popularized in 1890 and published by a newspaper known as the Farmer's Alliance. 
+
+Instructions: Based on the Source context, provide a detailed analysis of how this Primary Source reflects its historical period. Note specific historic events, personalities, or ideologies from the period to support your analysis. Then place this analysis within the different historiographical interpretations for the historical period.
+
+Analysis:
+
+
+The song "The Hayseed" reflects the historical period in which it was popularized, 1890, in a number of ways. First, the song speaks to the experience of farmers who were being oppressed by monopolies and "old party bosses." This was a common experience for farmers during this time period, as they were often taken advantage of by large businesses and political figures. Second, the song reflects the growing anti-establishment sentiment among Americans during this time period. This was a time of great economic inequality, and many Americans were beginning to question the existing social and political order. Finally, the song reflects the growing movement for reform during this time period. This was a time when many Americans were beginning to call for change in the way the country was run.
+
+Historiographical Analysis:
+
+
+The song "The Hayseed" can be seen as reflecting the Progressive interpretation of history. This interpretation emphasizes the need for reform in order to address the problems of American society. The song speaks to the experience of farmers who were being oppressed by monopolies and "old party bosses," which was a common experience during this time period. This interpretation would emphasize the need for reform in order to protect the rights of Americans and to create a more just society.

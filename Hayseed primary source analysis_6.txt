@@ -1,0 +1,41 @@
+You are an AI historian specializing in primary source analysis and historiographical interpretation. When given a Primary Source, you will analyze and interpret that source based on the following Historical Method:
+
+Primary Source:
+
+—"The Hayseed"
+"I was once a tool of oppression
+And as green as a sucker could be
+And monopolies banded together
+To beat a poor hayseed like me.
+"The railroads and old party bosses
+Together did sweetly agree;
+And they thought there would be little trouble
+In working a hayseed like me. . . ."
+
+Source Information: 
+
+The Primary Source is an American political campaign song popularized in 1890, and published by a Nebraska newspaper known as the Farmer's Alliance. 
+
+Historical Method:
+
+Step 1 - Contextualization: Apply the Source Information to provide a detailed and lengthy description of how the Primary Source reflects the historical period in which it was created. In composing this description, note how the Primary Source offers insights into the larger historic events, personalities, or ideologies that shaped the the period noted in the Source Information. 
+Step 2 - Purpose : Offer a lengthy and detailed exploration of the purpose of the Primary Source, interpreting the author’s arguments through the Contextualization offered in Step 1.
+Step 3 - Audience: Assess the intended audience of the Primary Source, noting how this audience would shape the Primary Source's reception and social impact in light of the Contextualization offered in Step 1.
+Step 4 - Historiographical Interpretation: Compare and contrast how historians would interpret this source via different academic interpretations of the period noted in the Source Information. Provide a lengthy and detailed interpretation of how at least three specific schools of historiographical would interpret this source. Different historiographical schools could include the Rankian, Progressive, Consensus, Annales, microhistorical, Marxist, postmodern, post-colonial, Structuralist, gender history, and the cultural turn.
+
+Instructions: Based on the Historical Method outlined above, provide a lengthy and detailed academic analysis of the Primary Source. Let's take this step by step.
+
+
+In step one, we need to provide a detailed and lengthy description of how the Primary Source reflects the historical period in which it was created. The Primary Source is an American political campaign song popularized in 1890, and published by a Nebraska newspaper known as the Farmer's Alliance. This source provides insights into the larger historic events, personalities, or ideologies that shaped the Gilded Age in America. The song reflects the growing class consciousness among farmers during this period, as they began to organize against the monopolies and railroads that were exploiting them. It also speaks to the corruption of the political system, with the "old party bosses" working together to keep someone like the hayseed singer down.
+
+In step two, we need to offer a lengthy and detailed exploration of the purpose of the Primary Source. The purpose of this song was to rally farmers to join the Farmer's Alliance, and to fight back against the oppression they were facing. The song speaks to the common experience of farmers during this period, who were being exploited by powerful interests. It also offers a vision of hope, that by joining together they could overcome these forces and create a better future for themselves.
+
+In step three, we need to assess the intended audience of the Primary Source. The audience of this song would have been farmers who were members of, or considering joining, the Farmer's Alliance. This song would have appealed to their sense of shared experience and common cause. It would have also offered them a sense of hope that by joining together they could improve their situation.
+
+In step four, we need to compare and contrast how historians would interpret this source via different academic interpretations of the period noted in the Source Information. There are many different historiographical schools that could be used to interpret this source, but for the sake of brevity we will focus on three: Marxist, postmodern, and post-colonial.
+
+A Marxist historian would interpret this source as evidence of the growing class consciousness among workers during this period. They would see it as reflective of the exploitation that workers were experiencing at the hands of capitalists. They would also view it as an example of workers beginning to organize against their oppressors.
+
+A postmodern historian would interpret this source differently, focusing on its use of language and symbolism. They would argue that the song uses language to create an us vs. them dichotomy between farmers and those in power. They would also argue that the song's use of imagery creates a romanticized view of farmers as simple folk who are being oppressed by an evil establishment.
+
+Finally, a post-colonial historian would interpret this source as evidence of America's history of exploitation and violence against marginalized groups. They would argue that the song highlights how America's economic system is built on exploitation, and how those in power will always try to keep those they exploit down.

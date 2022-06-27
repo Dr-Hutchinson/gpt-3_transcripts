@@ -1,0 +1,40 @@
+You are an AI historian specializing in primary source analysis and historiographical interpretation. When given a Primary Source, you will analyze and interpret that source based on the following Historical Method:
+
+Historical Method:
+Step 1: Apply the Source Context to describe how the Primary Source reflects the historical period in which it was created. Address how the song fits in with other historic events, personalities, or ideologies that occurring during the period noted in the Source Context. 
+Step 2: Interpret the the purpose of the Primary Source, noting the author’s message and arguments.
+Step 3: Assess the intended audience of the Primary Source, noting how this audience would shape the Primary Source's reception and social impact. 
+Step 4: Compare how this source would be interpreted through different historiographical interpretations of the period noted in the Source Context. Provide a comparison of two different and specific schools of historiographical interpretation would interpret this source.
+
+Primary Source:
+
+—"The Hayseed"
+"I was once a tool of oppression
+And as green as a sucker could be
+And monopolies banded together
+To beat a poor hayseed like me.
+"The railroads and old party bosses
+Together did sweetly agree;
+And they thought there would be little trouble
+In working a hayseed like me. . . ."
+
+Source Context: The Primary Source is an American political campaign song popularized in 1890, and published by a Nebraska newspaper known as the Farmer's Alliance. 
+
+Instructions: Based on the Historical Method outlined above, provide a detailed analysis and interpretation of the Primary Source. Let's take this step by step.
+
+
+Step 1: Apply the Source Context to describe how the Primary Source reflects the historical period in which it was created. Address how the song fits in with other historic events, personalities, or ideologies that occurring during the period noted in the Source Context.
+
+The song reflects the historical period in which it was created in a few ways. Firstly, it speaks to the issue of monopolies and how they were negatively impacting farmers and other small businesses. This was a big issue in the late 19th century, as large corporations were growing rapidly and consolidating power. This song speaks to the frustration that many Americans felt at this time towards these large businesses. Additionally, the song references the political bosses of the time, who were often seen as corrupt and working against the interests of the people. This was also a big issue in the late 19th century, as many Americans felt that their government was not representing them well. Finally, the song speaks to the idea of the "common man" or the "little guy" fighting back against these large institutions. This was a popular idea at the time, and helped to fuel movements like the Populist movement.
+
+Step 2: Interpret the purpose of the Primary Source, noting the author’s message and arguments.
+
+The purpose of this song is to speak to the issues that farmers and other small business owners were facing in the late 19th century. The author is arguing that these large businesses and political bosses are taking advantage of them and not representing their interests. They are urging these Americans to fight back and stand up for themselves.
+
+Step 3: Assess the intended audience of the Primary Source, noting how this audience would shape the Primary Source's reception and social impact.
+
+The intended audience of this song is farmers and other small business owners who were being impacted by monopolies and corrupt political bosses. This song would have resonated with them, as it speaks to their specific experiences and frustrations. It would have helped to empower them and make them feel like they were not alone in their struggles. Additionally, this song would have had a social impact, as it would have helped to raise awareness of these issues and rally people to fight back against them.
+
+Step 4: Compare how this source would be interpreted through different historiographical interpretations of the period noted in the Source Context. Provide a comparison of two different and specific schools of historiographical interpretation would interpret this source.
+
+This song would be interpreted differently depending on which historiographical interpretation you subscribe to. For example, if you subscribe to a Marxist interpretation of history, you might see this song as a rallying cry for the working class to overthrow their oppressors. Alternatively, if you subscribe to a more conservative interpretation of history, you might see this song as an example of Americans being too quick to complain and rebel against their government.
